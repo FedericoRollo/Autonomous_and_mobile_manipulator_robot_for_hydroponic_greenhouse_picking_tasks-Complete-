@@ -1,0 +1,2 @@
+# MSc thesis
+Design, Planning, Control and Simulation of a picking robot which autonomously move inside a greenhouse, recognize fruits on the plants thank to an RGB-D camera and some machine learning techniques, grasp the fruits and store them in a box and finish with the loading of the box over a conveyor belt. The simulation has been performed with Matlab and V-REP, a connection server has been used for the communication between the two tools. 
